@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <?xml-stylesheet type='text/xsl' href='interface.xsl'?>
-<interface uri="http://michel-slm.alwaysdata.net/0install/2011/libXv.xml" xmlns="http://zero-install.sourceforge.net/2004/injector/interface">
+<interface uri="http://raw.githubusercontent.com/faerietree/0install-interfaces/master/2011/libXv.xml" xmlns="http://zero-install.sourceforge.net/2004/injector/interface">
   <name>libXv</name>
   <summary>X.Org X11 libXv runtime library</summary>
   <description>
